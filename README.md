@@ -47,5 +47,5 @@ I’m always open to collaborating on projects, discussing tech, or just chattin
 ---
 
 **Thanks for visiting my profile!** 👨‍💻  
-*“Code is art, and I’m here to create masterpieces.”*  
+Code is art, and I’m here to create masterpieces
 
