@@ -17,15 +17,15 @@
 ---
 
 ### 🚀 **What I’m Up To**  
-- **Learning:** Diving deep into **databases, algorithms, and functional programming**.  
-- **Building:** Personal projects to sharpen my skills in **Java, Python, and C**.  
-- **Solving:** LeetCode problems to get better at cracking coding interviews.  
-- **Exploring:** The intersection of tech and creativity through **video making and cinema**.  
+- Diving deep into **databases, algorithms, and functional programming**.  
+- Personal projects to sharpen my skills in **Java, Python, and C**.  
+- LeetCode problems to get better at cracking coding interviews.  
+- The intersection of tech and creativity through **video making and cinema**.  
 
 ---
 
 ### 📅 **Plans for This Year**  
-- **LeetCode:** Solve 200+ medium questions.  
+- **LeetCode:** Solve 300+ medium questions.  
 - **Projects:** Build and deploy at least 3 full-stack or system-level projects.  
 - **Learning Goals:** Master **SQL, JavaScript, and Haskell**.  
 - **Personal Growth:** Combine my love for **medicine and tech** to explore healthcare innovations.  
@@ -33,9 +33,9 @@
 ---
 
 ### 🎬 **Beyond Coding**  
-- 🍿 **Cinema Enthusiast:** I love analyzing films and creating video content.  
-- 🎥 **Video Maker:** Editing and storytelling are my creative outlets.  
-- 🩺 **Medicine Lover:** Fascinated by how tech can revolutionize healthcare.  
+- 🍿 I love analyzing films and creating video content.  
+- 🎥 Editing and storytelling are my creative outlets.  
+- 🩺 Fascinated by how tech can revolutionize healthcare.  
 
 ---
 
