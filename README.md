@@ -16,14 +16,6 @@
 
 ---
 
-### 🚀 **What I’m Up To**  
-- Diving deep into **databases, algorithms, and functional programming**.  
-- Personal projects to sharpen my skills in **Java, Python, and C**.  
-- LeetCode problems to get better at cracking coding interviews.  
-- The intersection of tech and creativity through **video making and cinema**.  
-
----
-
 ### 📅 **Plans for This Year**  
 - **LeetCode:** Solve 300+ medium questions.  
 - **Projects:** Build and deploy at least 3 full-stack or system-level projects.  
