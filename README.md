@@ -1,4 +1,4 @@
 # Nur 
--> T&M Lead @ GDGoc ELTE
+-> Co-Lead @ GDGoc ELTE
 #
 -> CS @ ELTE
